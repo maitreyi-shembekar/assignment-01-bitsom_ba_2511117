@@ -1,0 +1,74 @@
+[
+    {
+        "name": "LightBook Pro 15",
+        "category": "Electronics",
+        "price": 75000,
+        "specs": {
+            "processor": "Intel i7",
+            "ram": "16GB",
+            "storage": "512GB SSD"
+        },
+        "warranty_period": "2 years"
+    },
+    {
+        "name": "Galaxy A56",
+        "category": "Electronics",
+        "price": 20000,
+        "specs": {
+            "storage": "128 GB",
+            "camera": "48 MP"
+        },
+        "warranty_period": "1 year"
+    },
+    {
+        "name": "Straight Fit Baggy Jeans",
+        "category": "Clothing",
+        "price": 3200,
+        "attributes": {
+            "size in inches": [
+                "26",
+                "28",
+                "30",
+                "32"
+            ],
+            "material": "100% Cotton",
+            "color": "Indigo Blue"
+        }
+    },
+    {
+        "name": "Ethnic Motif Kurti",
+        "category": "Clothing",
+        "price": 1000,
+        "attributes": {
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "material": "Cotton Linen",
+            "neck": "Round"
+        }
+    },
+    {
+        "name": "Greek Yogurt - Blueberry",
+        "category": "Groceries",
+        "price": 80,
+        "expiry_date": "2025-01-15",
+        "nutritional_info (per 100g)": {
+            "protein": "10g",
+            "fat": "3g",
+            "calories": 100
+        }
+    },
+    {
+        "name": "Whole Grain Bread",
+        "category": "Groceries",
+        "price": 65,
+        "expiry_date": "2024-12-28",
+        "nutritional_info": {
+            "fiber": "6g",
+            "carbohydrates": "40g"
+        }
+    }
+]
